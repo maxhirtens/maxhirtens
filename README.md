@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Bio
+## Bio
 My name is Max Hirtenstein and I'm a San Francisco based sound designer, entrepreneur, and software engineering fellow at Springboard.
 After years running my own business in the film industry, I'm looking to transfer my creative and personal skills to tech.
 
@@ -8,9 +8,7 @@ After years running my own business in the film industry, I'm looking to transfe
 - ⚡ Fun fact: I survived brain surgery (and can still write code)!
 - 📫 How to reach me: maxhirtens@gmail.com
 
-##Projects
-
-Jeopardy [
+## Projects
 
 Connect Four [Link](https://maxhirtens.github.io/connect-four/) | [Repo](https://github.com/maxhirtens/connect-four)
 
