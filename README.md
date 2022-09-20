@@ -5,7 +5,7 @@ My name is Max Hirtenstein and I'm a San Francisco based sound designer, entrepr
 After years running my own business in the film industry, I'm looking to transfer my creative and personal skills to tech.
 
 - 🌱 I’m currently learning Python, Flask, Jinja, Javascript, and more.
-- ⚡ Fun fact: I survived brain surgery (and can still write code)!
+- ⚡ Fun fact: Former owner of a bean-to-bar chocolate company.
 - 📫 How to reach me: maxhirtens@gmail.com
 
 ## Projects
