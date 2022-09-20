@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Bio
-My name is Max Hirtenstein and I'm a San Francisco based sound designer, entrepreneur, and software engineering fellow at Springboard.
-After years running my own business in the film industry, I'm looking to transfer my creative and personal skills to tech.
+My name is Max Hirtenstein and I'm a San Francisco software engineer, sound designer, entrepreneur.
+After many years running a business in the film industry, I'm looking to transfer my creative and personal skills to tech.
 
 - 🌱 I’m currently learning Python, Flask, Jinja, Javascript, and more.
 - ⚡ Fun fact: Former owner of a bean-to-bar chocolate company.
