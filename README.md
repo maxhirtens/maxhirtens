@@ -9,6 +9,8 @@ My name is Max Hirtenstein and I'm a San Francisco software engineer, sound desi
 
 ## Projects
 
+Jeopardy [Link](https://maxhirtens.github.io/jeopardy/) | [Repo](https://github.com/maxhirtens/jeopardy)
+
 Connect Four [Link](https://maxhirtens.github.io/connect-four/) | [Repo](https://github.com/maxhirtens/connect-four)
 
 Memory Game [Link](https://maxhirtens.github.io/memory-game/) | [Repo](https://github.com/maxhirtens/memory-game)
