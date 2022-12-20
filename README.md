@@ -3,7 +3,7 @@
 ## Bio
 My name is Max Hirtenstein and I'm a San Francisco software engineer, sound designer, and entrepreneur. After many years running a business in the film industry, I'm excited to transfer my creative, technical, and personal skills to software engineering.
 
-- 🌱 I’m currently learning Python, Flask, Jinja, Javascript, and more.
+- 🌱 I’m currently learning Python, Flask, Javascript, node.js, Postgres and more.
 - ⚡ Fun fact: Former owner of a bean-to-bar chocolate company.
 - 📫 How to reach me: maxhirtens@gmail.com
 
