@@ -3,17 +3,19 @@
 ## Bio
 My name is Max Hirtenstein and I'm a San Francisco software engineer, sound designer, and entrepreneur. After many years running a business in the film industry, I'm excited to transfer my creative, technical, and personal skills to software engineering.
 
-- 🌱 I’m currently learning React, Python, Flask, node.js, Express, Postgres and more.
+- 🌱 I’m currently using React, Next.js, Python, node.js, Express, Postgres and more.
 - ⚡ Fun fact: Former owner of a bean-to-bar chocolate company.
 - 📫 How to reach me: maxhirtens@gmail.com
 
 ## Projects
 
-Jeopardy [Link](https://maxhirtens.github.io/jeopardy/) | [Repo](https://github.com/maxhirtens/jeopardy)
+paper-route.app [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirtens/paper-route)
+
+Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirtens/steepr)
 
 Connect Four [Link](https://maxhirtens.github.io/connect-four/) | [Repo](https://github.com/maxhirtens/connect-four)
 
-Memory Game [Link](https://maxhirtens.github.io/memory-game/) | [Repo](https://github.com/maxhirtens/memory-game)
+Jeopardy [Link](https://maxhirtens.github.io/jeopardy/) | [Repo](https://github.com/maxhirtens/jeopardy)
 
 Hacker News Clone [Link](https://maxhirtens.github.io/hack-or-snooze/) | [Repo](https://github.com/maxhirtens/hack-or-snooze)
 
