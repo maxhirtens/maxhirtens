@@ -14,7 +14,7 @@ Paper Route [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirt
 > AI-assisted summaries for your favorite newspapers.
 
 Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirtens/steepr)
-> A music-based timer for SPotify Premium users.
+> A music-based timer for Spotify Premium users.
 
 Jobly [Link](https://max-react-jobly.onrender.com/) | [Repo](https://github.com/maxhirtens/react-jobly)
 > Mock job search portal.
