@@ -8,6 +8,7 @@ My name is Max Hirtenstein and I'm a San Francisco software engineer, sound desi
 - 📫 How to reach me: maxhirtens@gmail.com
 
 ## Projects
+
 ### Full-Stack
 paper-route.app [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirtens/paper-route)
 
@@ -15,7 +16,7 @@ Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirte
 
 Jobly [Link](https://max-react-jobly.onrender.com/) | [Repo](https://github.com/maxhirtens/react-jobly)
 
-###Frontend
+### Frontend
 Connect Four [Link](https://maxhirtens.github.io/connect-four/) | [Repo](https://github.com/maxhirtens/connect-four)
 
 Jeopardy [Link](https://maxhirtens.github.io/jeopardy/) | [Repo](https://github.com/maxhirtens/jeopardy)
