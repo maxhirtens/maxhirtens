@@ -8,24 +8,14 @@ Current Stack: Javascript, Next.js, React, Python, PostgreSQL, Node, Prisma, and
 ## Projects
 
 ### Full-Stack
+Almond Billing [Link](https://almondbilling.vercel.app/)
+> Complete billing and payment solution for healthcare providers.
+
 Paper Route [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirtens/paper-route)
 > AI-assisted summaries for your favorite newspapers.
 
 Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirtens/steepr)
 > A music-based timer for Spotify Premium users.
-
-Jobly [Link](https://max-react-jobly.onrender.com/) | [Repo](https://github.com/maxhirtens/react-jobly)
-> Mock job search portal.
-
-### Frontend
-Connect Four [Link](https://maxhirtens.github.io/connect-four/) | [Repo](https://github.com/maxhirtens/connect-four)
-> Connect four to win!
-
-Jeopardy [Link](https://maxhirtens.github.io/jeopardy/) | [Repo](https://github.com/maxhirtens/jeopardy)
-> RIP Alex Trebek.
-
-AJAX Gif Search [Link](https://maxhirtens.github.io/ajax-giphy-party/) | [Repo](https://github.com/maxhirtens/ajax-giphy-party)
-> Search ALL the gifs!
 
 <!--
 **maxhirtens/maxhirtens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
