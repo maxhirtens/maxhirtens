@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 ## Bio
-My name is Max Hirtenstein and I'm a San Francisco software engineer, sound designer, and entrepreneur. After many years running a business in the film industry, I'm excited to transfer my creative, technical, and personal skills to software engineering.
+I'm a full-stack software engineer and entrepreneur with a long track record of ventures in media, finance, and tech. Running 2 startups in the film industry left me with the skills needed to tackle complex projects and tight deadlines. After becoming a licensed investment advisor, I then began building an end-to-end payments and billing platform for healthcare providers. Previous clients for my businesses include HBO, Netflix, Mercedes-Benz, Apple, NVidia, Stanford Medicine and more. I thrive on building innovative solutions that create tangible impact, whether it's streamlining healthcare payments or revolutionizing media workflows. My passion lies in transforming complex business challenges into elegant technical solutions that drive real-world results.
 
-- 🌱 I’m currently using React, Next.js, Python, node.js, Express, Postgres and more.
-- ⚡ Fun fact: Former owner of a bean-to-bar chocolate company.
-- 📫 How to reach me: maxhirtens@gmail.com
+Current Stack: Javascript, Next.js, React, Python, PostgreSQL, Node, Prisma, and more.
 
 ## Projects
 
