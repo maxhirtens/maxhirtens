@@ -8,11 +8,14 @@ Current Stack: Typescript, Next.js, React, Python, PostgreSQL, Node, Prisma, and
 ## Projects
 
 ### Full-Stack
-Almond Billing [Link](https://almondbilling.vercel.app/)
+Almond Billing [Link](https://almondbilling.vercel.app/) | Repo on request
 > Complete billing and payment solution for healthcare providers.
 
 Paper Route [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirtens/paper-route)
 > AI-assisted summaries for your favorite newspapers.
+
+Chambercheck SF [Link](https://chambercheck-sf.com/) | [Repo](https://github.com/maxhirtens/chambercheck)
+> Real restaurant restroom reviews.
 
 Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirtens/steepr)
 > A music-based timer for Spotify Premium users.
