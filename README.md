@@ -5,20 +5,11 @@ I'm a full-stack software engineer and entrepreneur with a long track record of 
 
 Current Stack: Typescript, Next.js, React, Python, Node, PostgreSQL, Prisma, and more.
 
-## Projects
+## Current Projects
 
 ### Full-Stack
-Almond Billing [Link](https://almondbilling.vercel.app/) | Repo on request
-> Complete billing and payment solution for healthcare providers.
-
-Paper Route [Link](https://paper-route.app/) | [Repo](https://github.com/maxhirtens/paper-route)
-> AI-assisted summaries for your favorite newspapers.
-
-Chambercheck SF [Link](https://chambercheck-sf.com/) | [Repo](https://github.com/maxhirtens/chambercheck)
-> Real restaurant restroom reviews.
-
-Steepr [Link](https://steepr.onrender.com/) | [Repo](https://github.com/maxhirtens/steepr)
-> A music-based timer for Spotify Premium users.
+Almond Connect [Link](https://almondconnect.com/) | Repo on request
+> Complete EMR and payment solution for mental health professionals.
 
 <!--
 **maxhirtens/maxhirtens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
