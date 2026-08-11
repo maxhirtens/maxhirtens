@@ -8,8 +8,8 @@ Current Stack: Typescript, Next.js, React, Python, Node, PostgreSQL, Prisma, and
 ## Current Projects
 
 ### Full-Stack
-Almond Connect [Link](https://almondconnect.com/) | Repo on request
-> Complete EMR and payment solution for mental health professionals.
+FiftyMinutes [Link](https://www.fiftyminutes.com/)
+> Complete EHR and practice management solution for mental health professionals.
 
 <!--
 **maxhirtens/maxhirtens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
